@@ -11,13 +11,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  {
-    "name": "my-package",
-    "scripts": {
-      "build": "babel src -d lib",
-      "test": "jest"
-    }
-  }  
+    
 
   "scripts": {
     "start": "react-scripts start",
